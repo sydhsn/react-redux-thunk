@@ -1,3 +1,3 @@
-# react-redux-thunk
+# react-redux
 
 Created with CodeSandbox by saiyadhusain
